@@ -29,11 +29,7 @@ body{
     ont-weight: 400;
  
 }
-.profile-pic{
-    height: 676px;
-    width: 700px;
-    
-}
+ 
 /*  nav related style */
 nav{
    display: flex;
